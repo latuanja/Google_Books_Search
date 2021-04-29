@@ -7,6 +7,7 @@ Google Books Search is an app that displays books based on the user's input.  Up
 * HTML
 * CSS
 * Javascript
+* React
 * Express
 * Node
 * MongoDB
