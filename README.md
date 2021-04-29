@@ -11,3 +11,5 @@ Google Books Search is an app that displays books based on the user's input.  Up
 ## Node
 ## MongoDB
 ## Mongoose
+
+![img](google-books/assets/screenshot.png "Google Books Search Screenshot")
