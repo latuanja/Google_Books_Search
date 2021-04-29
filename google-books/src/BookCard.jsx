@@ -78,4 +78,4 @@ const BookCard = ({
 
 };
 
-export default BookCard
+export default BookCard;
